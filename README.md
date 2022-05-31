@@ -44,16 +44,6 @@ class Anna {
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 
-## **GitHub Statistics**
-
-<a href="https://github.com/aolad-anna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glailton&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/aolad-anna">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=glailton&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
 [website]: https://www.aoladanna.info
 [facebook]: https://facebook.com/imanna15
 [linkedin]: https://www.linkedin.com/in/aoladanna
