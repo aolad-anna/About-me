@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Welcome to my page!
+Hello, welcome to my Github Page :)!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me!
 
