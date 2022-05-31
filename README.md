@@ -7,12 +7,11 @@ Welcome to my page!
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-class Glailton {
- val name = "Glailton Costa"
- val acknowledgements = "Software Developer"
- 
- val location = "Fortaleza, Ceara, Brazil" 
- val company = "AmBev Tech"
+class Anna {
+ val name = "Aolad Hossain Anna"
+ val acknowledgements = "Software Developer(Android)"
+ val location = "Dhaka, Bangladesh" 
+ val company = "Nexdecade Technology"
 }
 ```
 
@@ -47,23 +46,21 @@ class Glailton {
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/aolad-anna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glailton&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/aolad-anna">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glailton&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-![pv](https://pageview.vercel.app/?github_user=glailton)
-
-[website]: https://glailton.github.io/
-[instagram]: https://www.instagram.com/glailtonrodrigues/
-[linkedin]: https://www.linkedin.com/in/glailton/
+[website]: https://www.aoladanna.info
+[facebook]: https://facebook.com/imanna15
+[linkedin]: https://www.linkedin.com/in/aoladanna
 <br>
 
 #### Sociai Networks!
 
 🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
+📷 [facebook][facebook] **|** 
 👔 [linkedin][linkedin]
